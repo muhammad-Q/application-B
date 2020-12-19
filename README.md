@@ -1,0 +1,2 @@
+# application-B
+rabbit MQ
